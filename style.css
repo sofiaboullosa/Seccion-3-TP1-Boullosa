@@ -1,0 +1,71 @@
+.container{
+    margin-left:20%;
+    margin-right: 20%;
+}
+body{
+    background-color: rgb(241, 224, 203);
+    text-align: justify;
+
+}
+h1{
+    color: rgb(194, 167, 123);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+}
+
+h2{
+    font-family: "Fantasy", Copperplate, Fantasy;
+    font-size: 70px;
+}
+
+.instagram {
+    color: rgb(140, 112, 81);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px
+}
+.behance{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgb(140, 112, 81);
+
+}
+.encabezdo{
+    color: rgb(38, 0, 255);
+}
+
+.pedrito {
+    color: rgb(255, 68, 51);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+}
+h5{
+    color: rgb(38, 0, 255);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+}
+
+.historia{
+    color: rgb(255, 68, 51);
+    font-family: Arial, Helvetica, sans-serif 
+}
+.center{
+    text-align: center;
+}
+
+.noUnderline{
+    text-decoration: none;
+}
+
+img{ 
+    border-radius: 50%;
+    position: center;
+    margin: auto;
+}
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 60%;
+  }
+  
